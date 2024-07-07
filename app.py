@@ -3,7 +3,6 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import time
-import tkinter as tk
 import base64
 from PIL import Image
 
